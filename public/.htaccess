@@ -1,0 +1,14 @@
+# Enables the MultiViews option
+Options -Multiviews
+
+# Turns on the RewriteEngine module
+RewriteEngine On
+
+# RewriteCond: Checks if the requested resource is not a directory
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# RewriteCond: Checks if the requested resource is not a file
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# RewriteRule: Redirects all requests to index.php with the URL path as a query parameter 'url'
+RewriteRule ^(.*)$ index.php?url=$1 [L]
