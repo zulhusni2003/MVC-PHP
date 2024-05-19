@@ -1,2 +1,1 @@
-
-    <h1> Welcome to MVC page</h1>
+<h1> Welcome to MVC page</h1>
