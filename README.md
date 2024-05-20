@@ -20,7 +20,7 @@ This project is a learning exercise to understand the Model-View-Controller (MVC
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/zulhusni2003/MVC-PHP
+   git clone https://github.com/zulhusni2003/MVC-PHP.git
    
 ## Contributing
 
