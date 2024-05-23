@@ -3,10 +3,10 @@
 This project is a learning exercise to understand the Model-View-Controller (MVC) architecture using PHP. It covers routing, controllers, views, models, database interactions, and basic CRUD operations.
 
 ## Features
-- **Routing**: Custom URL routing.
-- **Controllers**: Handling application logic.
-- **Views**: Rendering HTML templates.
-- **Assets**: Managing CSS, JS, and images.
+- **Routing**: Custom URL routing. ✅
+- **Controllers**: Handling application logic. ✅
+- **Views**: Rendering HTML templates. ✅
+- **Assets**: Managing CSS, JS, and images. ✅
 - **Models**: Interacting with the database.
 - **Database Wrapper**: Simplified database operations.
 - **CRUD Operations**: Create, Read, Update (with AJAX), Delete.
